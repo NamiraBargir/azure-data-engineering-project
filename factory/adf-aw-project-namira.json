@@ -1,0 +1,15 @@
+{
+	"name": "adf-aw-project-namira",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18ba6029-310f-4b6f-8bf1-2a904102d4fc",
+		"tenantId": "ee9c56e4-2c7d-439f-98e7-c06e6a968882"
+	}
+}
